@@ -1,2 +1,3 @@
 # TG Studio
-A repository to implement an alternative to camtasia for linux
+A project to implement an alternative to camtasia for linux
+
